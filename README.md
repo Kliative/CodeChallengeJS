@@ -1,2 +1,2 @@
 # CodeChallengeJS
-Just a collection of coding challenges
+Just a collection of coding challengess
