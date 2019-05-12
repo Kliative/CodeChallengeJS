@@ -1,0 +1,22 @@
+{
+  "name": "codechallengejs",
+  "version": "1.0.0",
+  "description": "code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kliative/CodeChallengeJS.git"
+  },
+  "author": "Tawanda Kanyangarara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kliative/CodeChallengeJS/issues"
+  },
+  "homepage": "https://github.com/Kliative/CodeChallengeJS#readme"
+}
